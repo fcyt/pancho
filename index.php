@@ -1,9 +1,9 @@
 <?php
-	echo "pruebas con git";
-	echo "Otra linea con git";
+	echo "pruebas con git<br>";
+	echo "Otra linea con git<br>";
 
-	echo "linea 3";
-	echo "linea que agregó pancho";
+	echo "linea 3<br>";
+	echo "linea que agregó pancho<br>";
 	
-	echo "En la rama pancho";
+	echo "En la rama pancho<br>";
 
